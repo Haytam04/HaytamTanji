@@ -12,7 +12,7 @@ function Projects() {
         {
             title:'Portfolio',
             tech: [SiNextdotjs, SiReact, SiTailwindcss, SiTypescript,],
-            link: "http://localhost:3000",
+            link: "https://haytamtanji.vercel.app/",
             cover: '/project1.png',
             background: 'bg-indigo-500'
         },
@@ -33,7 +33,7 @@ function Projects() {
         {
             title:'Portfolio',
             tech: [SiNextdotjs, SiReact, SiTailwindcss, SiTypescript,],
-            link: "http://localhost:3000",
+            link: "https://haytamtanji.vercel.app/",
             cover: '/project1.png',
             background: 'bg-indigo-500'
         },

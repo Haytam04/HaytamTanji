@@ -7,13 +7,11 @@ import { SiGithub, SiInstagram, SiLinkedin, SiYoutube } from "react-icons/si";
 function Navbar({className}:{className?:string}) {
 
   const socials = [
-    
     {
       label: "linkedin",
       link: "https://www.linkedin.com/in/haytamtanji/",
       Icon: SiLinkedin,
     },
-
     {
       label: "github",
       link: "https://github.com/Haytam04",
@@ -24,13 +22,11 @@ function Navbar({className}:{className?:string}) {
       link: "https://www.youtube.com/@itsme.tomioka/featured",
       Icon: SiYoutube,
     },
-
     {
       label: "instagram",
       link: "https://www.instagram.com/itsme.tomioka/",
       Icon: SiInstagram,
     },
-
   ]
 
 
@@ -56,11 +52,8 @@ function Navbar({className}:{className?:string}) {
   
             </Link>
           );
-
           })}
-
         </div>
-
     </nav>
   )
 }

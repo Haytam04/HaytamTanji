@@ -3,7 +3,7 @@ import React from 'react'
 import Title from './Title'
 import { CardHoverEffect } from '@/components/ui/CardHoverEffect'
 import { TbBrandMysql } from "react-icons/tb";
-import { SiGit, SiJavascript, SiMicrosoftsqlserver, SiMongodb, SiMysql, SiNextdotjs, SiNodedotjs, SiReact, SiSqlalchemy, SiSqlite, SiTailwindcss, SiTypescript } from 'react-icons/si'
+import { SiGit, SiJavascript, SiMongodb , SiNextdotjs, SiNodedotjs, SiReact, SiTailwindcss, SiTypescript, SiSpringboot, SiAngular, SiMongoose, SiKubernetes, SiWordpress } from 'react-icons/si'
 
 function Skills() {
 
@@ -43,6 +43,18 @@ function Skills() {
     {
       text: "Node.js",
       icon: SiNodedotjs,
+    },
+    {
+      text: "Springboot",
+      icon: SiSpringboot,
+    },
+    {
+      text: "Angular",
+      icon: SiAngular,
+    },
+    {
+      text: "Wordpress",
+      icon: SiWordpress,
     },
   ]
 

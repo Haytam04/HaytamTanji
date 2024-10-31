@@ -24,10 +24,10 @@ function Projects() {
             background: 'bg-green-500'
         },
         {
-            title:'CarHub',
-            tech: [SiNextdotjs, SiReact, SiTailwindcss, SiTypescript, SiHeadlessui],
-            link: "https://cars-rent-app-six.vercel.app/",
-            cover: '/project2.png',
+            title:'MeetUpNow',
+            tech: [SiNextdotjs, SiReact, SiTailwindcss, SiTypescript],
+            link: "https://meetupnow1.vercel.app/",
+            cover: '/MeetUpNow.png',
             background: 'bg-green-500'
         },
         {
